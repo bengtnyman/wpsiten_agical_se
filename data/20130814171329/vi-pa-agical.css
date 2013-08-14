@@ -1,0 +1,35 @@
+/* ::::: http://agical.se/se/wp-content/themes/agical/style.css ::::: */
+
+body { font-family: arial; padding-left: 190px; background-color: Black; color: rgb(195, 195, 195); }
+a:link, a:visited { color: rgb(126, 176, 131); text-decoration: none; }
+a:hover, a:active { text-decoration: underline; }
+#main { clear: both; }
+#headerWrapper { position: relative; width: 100%; height: 139px; margin-bottom: 50px; }
+#language { position: relative; float: right; font-weight: lighter; }
+#divHeader { padding-left: 0px; padding-top: 0px; margin-bottom: 20px; margin-left: 0px; width: 200px; height: 149px; float: left; }
+#content { padding-left: 0px; padding-top: 30px; margin-bottom: 20px; margin-left: 0px; width: 900px; font-size: 12px ! important; float: left; }
+#footer { width: 900px; clear: both; }
+#imgLogo { margin-top: 90px; }
+.menu { position: absolute; float: right; left: 200px; bottom: -14px; }
+.menu li { list-style-type: none; float: left; margin-right: 15px; vertical-align: bottom; border-right: 1px solid rgb(66, 66, 66); height: 88px; padding-right: 15px; padding-bottom: 0px; line-height: 160px; }
+.menu li a { color: white; font-weight: bold; font-size: 10px; text-decoration: none; }
+a.language { font-size: 11px; }
+.menu li a:hover { text-decoration: underline; }
+.menu ul { float: left; }
+h1 { font-weight: lighter; font-family: Georgia; }
+h2, h3 { font-weight: lighter; font-family: Georgia; }
+#site-info { font-size: 10px; font-weight: bold; padding-top: 3px; border-top: 1px solid rgb(45, 45, 45); }
+strong { font-weight: bold; }
+body { background: url('background_fade.png') repeat-x scroll 0% 0% Black; }
+.tobbe { background-image: url('tobbe.png'); width: 131px; }
+.stefan { background-image: url('stefan.png'); width: 100px; }
+.jocke { background-image: url('jocke.png'); width: 121px; }
+.ville { background-image: url('ville.png'); width: 107px; }
+.ola { background-image: url('ola.png'); width: 125px; }
+.kvinna { background-image: url('damskor.png'); width: 98px; }
+.johne { background-image: url('john.png'); width: 107px; }
+.danne { background-image: url('danne.png'); width: 151px; }
+table { background: none repeat scroll 0% 0% rgb(255, 255, 255); height: 420px; position: absolute; border-bottom: 20px solid white; z-index: 0; top: 300px; clear: both; }
+.employeeInfo { font-family: Georgia; font-weight: lighter; display: none; position: absolute; width: 914px; opacity: 0.9; background: none repeat scroll 0% 0% black; color: rgb(195, 195, 195); padding: 0px 30px; height: 255px; z-index: 100; top: -160px; }
+#footer { position: absolute; top: 800px; }
+#whiteback { position: absolute; top: 700px; height: 95px; width: 974px; background: none repeat scroll 0% 0% white; z-index: 1; display: none; }

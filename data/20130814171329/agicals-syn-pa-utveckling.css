@@ -1,0 +1,24 @@
+/* ::::: http://agical.se/se/wp-content/themes/agical/style.css ::::: */
+
+body { font-family: arial; padding-left: 190px; background-color: Black; color: rgb(195, 195, 195); }
+a:link, a:visited { color: rgb(126, 176, 131); text-decoration: none; }
+a:hover, a:active { text-decoration: underline; }
+#main { clear: both; }
+#headerWrapper { position: relative; width: 100%; height: 139px; margin-bottom: 50px; }
+#language { position: relative; float: right; font-weight: lighter; }
+#divHeader { padding-left: 0px; padding-top: 0px; margin-bottom: 20px; margin-left: 0px; width: 200px; height: 149px; float: left; }
+#content { padding-left: 0px; padding-top: 30px; margin-bottom: 20px; margin-left: 0px; width: 900px; font-size: 12px ! important; float: left; }
+#footer { width: 900px; clear: both; }
+#imgLogo { margin-top: 90px; }
+.menu { position: absolute; float: right; left: 200px; bottom: -14px; }
+.menu li { list-style-type: none; float: left; margin-right: 15px; vertical-align: bottom; border-right: 1px solid rgb(66, 66, 66); height: 88px; padding-right: 15px; padding-bottom: 0px; line-height: 160px; }
+.menu li a { color: white; font-weight: bold; font-size: 10px; text-decoration: none; }
+a.language { font-size: 11px; }
+.menu li a:hover { text-decoration: underline; }
+.menu ul { float: left; }
+h1 { font-weight: lighter; font-family: Georgia; }
+h2, h3 { font-weight: lighter; font-family: Georgia; }
+#leftContent { width: 320px; padding-top: 0px; line-height: 135%; letter-spacing: 0.5px; float: left; padding-right: 0px; vertical-align: text-top; }
+#rightContent { width: 490px; padding-right: 40px; float: right; }
+#site-info { font-size: 10px; font-weight: bold; padding-top: 3px; border-top: 1px solid rgb(45, 45, 45); }
+body { background: url('background_fade.png') repeat-x scroll 0% 0% Black; }
